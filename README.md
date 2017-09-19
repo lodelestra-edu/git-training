@@ -20,6 +20,7 @@ Github dispose d'un outil permettant la prise en main rapide de certaines comman
 
 ### Le site de streaming
 Vous allez maintenant créer votre site de streaming en utilisant le versionning Git durant le developpement.
+
 11. Cherchez sur le web un template html et css gratuit, opensource, **simple, léger** et joli pour servir de base à votre site de streaming. Si vous êtes plus à l'aise avec, vous pouvez aussi utiliser un framework comme foundation ou bootstrap ...
 12. Ajoutez votre template au dépôt. Puis modifier/supprimer/ajouter des fichiers jusqu'à obtenir une base de site présentant le nom et la miniature de deux films. Chaque commit doit maintenir le dépot dans un état cohérent, (ajouter un fichier, supprimer du contenu non utilisé, modifier un fichier) et vous devez effectuer au moins 5 modifications (5 commits).
   * profitez de chaque étape pour essayer les commandes:
