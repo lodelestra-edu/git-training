@@ -34,7 +34,7 @@ Vous allez maintenant créer votre site de streaming en utilisant le versionning
 16. Votre modification n'est plus indexé, mais elles sont toujours présentes sur le/les fichier/s. Supprimer ces modifications avec la commande checkout sur le/les fichiers. Vérifiez avec git status qu'il n'y a plus de modifications à commiter.
 17. Regardez l'historique de votre dépôt (log). Choisissez un commit dans la liste (sauf le dernier). Faites un `git checkout`sur le commit ID du commit que vous avez choisi. Vérifier que votre site est revenu dans l'état correspondant à ce commit. Observer ce qu'affiche la commande git status.
 18. Affichez l'historique du dépôt. Git log n'affiche plus les commits plus récents. Ajoutez l'option --all.
-19. Retournz zà la version la plus récente de votre dépôt. (le commit le plus récent de la branche master, est toujours pointé par le label `master`. Une fois fait, vérifiez l'état de votre site, puis l'état de votre dépôt.
+19. Retournez à la version la plus récente de votre dépôt. (le commit le plus récent de la branche master, est toujours pointé par le label `master`. Une fois fait, vérifiez l'état de votre site, puis l'état de votre dépôt.
 
 ## Travailler à plusieurs.
 20. Le propriétaire du dépôt sur GitHub doit ajouter un collaborateur pour qu'il puisse directement pousser ses modifications. Pour cela il suffit de se rendre sur l'interface web de github et dans les configurations du dépôt *TP-Git* ajouter un collaborateur. (Attention le nouveau collaborateur va recevoir un mail où il doit accepter d'être ajouté au projet).
