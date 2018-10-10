@@ -1,8 +1,8 @@
 # Git
 
 ## Prise en main rapide
-Github dispose d'un outil permettant la prise en main rapide de certaines commandes git.
-1. Faites le tutoriel en ligne de github : [Tuto](https://try.github.io/levels/1/challenges/1)
+Github dispose d'un outil permettant la prise en main rapide de certaines commandes git [site](https://try.github.io/levels/1/challenges/1).
+1. Explorer [visualizing-git](http://git-school.github.io/visualizing-git/) et [learn git branching](https://learngitbranching.js.org/)
 
 ## Mise en place
 
