@@ -1,8 +1,12 @@
 # Git
 
+# Partie 1
+
 ## Prise en main rapide
 Github dispose d'un outil permettant la prise en main rapide de certaines commandes git [site](https://try.github.io/levels/1/challenges/1).
 1. Explorer [visualizing-git](http://git-school.github.io/visualizing-git/) et [learn git branching](https://learngitbranching.js.org/)
+
+# Partie 2
 
 ## Mise en place
 
@@ -62,3 +66,10 @@ Vous allez maintenant créer votre site de streaming en utilisant le versionning
 
 32. Faites une nouvelle branche de feature, contenant plusieurs commit (5 mini) dont des commit minim, ne pushez pas vos commits.
 33. Faites un rebase interactif `git rebase -i` sur vos commits pour squasher les petits commits qui peuvent faire partie d'un plus gros commit.
+
+# Partie 3
+
+34. Faite un fork du repo github [lodelestra/licence_2020_github](https://github.com/lodelestra-edu/licence_2020_github) et proposez une pull request pour ajouter un élément à la liste, ajouter une fonctionnalité ou une amélioration.
+  * Liens utiles:
+    * [working with forks](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/working-with-forks)
+    * [creating a pull request from a fork](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork)
