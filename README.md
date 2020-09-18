@@ -69,7 +69,7 @@ Vous allez maintenant créer votre site de streaming en utilisant le versionning
 
 # Partie 3
 
-34. Faite un fork du repo github [lodelestra/licence_2020_github](https://github.com/lodelestra-edu/licence_2020_github) et proposez une pull request pour ajouter un élément à la liste, ajouter une fonctionnalité ou une amélioration.
+34. Faite un fork du repo github [lodelestra-edu/licence_2020_github](https://github.com/lodelestra-edu/licence_2020_github) et proposez une pull request pour ajouter un élément à la liste, ajouter une fonctionnalité ou une amélioration.
   * Liens utiles:
     * [working with forks](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/working-with-forks)
     * [creating a pull request from a fork](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork)
