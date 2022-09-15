@@ -13,6 +13,17 @@ Github dispose d'un outil permettant la prise en main rapide de certaines comman
 2. Créez un compte sur GitHub pour chaque utilisateur.
 3. Configurez votre client git pour utiliser cet identifiant
 
+```bash
+# Hints:
+# https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+# Cache for 1 week
+git config --global credential.helper "cache --timeout=604800"
+# or use token in remote url
+git remote set-url origin https://[USERNAME]:[TOKEN]@github.com/[ORGANIZATION_OR_USERNAME]/[REPO].git
+# or
+git remote add origin https://[USERNAME]:[TOKEN]@github.com/[ORGANIZATION_OR_USERNAME]/[REPO].git
+```
+
 ## Premiers pas
 4. Dans github, créez un premier dépôt nommé 'TP-Git' et le cloner sur votre machine de travail
 5. Ajoutez un fichier authors.html au dépôt de travail, contenant un titre et une liste avec votre prénom.
@@ -69,7 +80,7 @@ Vous allez maintenant créer votre site de streaming en utilisant le versionning
 
 # Partie 3
 
-34. Faite un fork du repo github [lodelestra-edu/licence_2020_github](https://github.com/lodelestra-edu/licence_2020_github) et proposez une pull request pour ajouter un élément à la liste, ajouter une fonctionnalité ou une amélioration.
+34. Faite un fork du repo github [lodelestra-edu/licence_2022_github](https://github.com/lodelestra-edu/licence_2022_github) et proposez une pull request pour ajouter un élément à la liste, ajouter une fonctionnalité ou une amélioration.
   * Liens utiles:
     * [working with forks](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/working-with-forks)
     * [creating a pull request from a fork](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork)
